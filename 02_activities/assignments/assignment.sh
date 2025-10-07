@@ -1,6 +1,6 @@
 #!/bin/bash
 set -x
-#new ass1
+#Q7
 ############################################
 # DSI CONSULTING INC. Project setup script #
 ############################################
